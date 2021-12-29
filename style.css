@@ -6,12 +6,13 @@
 
 html {
   font-family: "Courier New", monospace;
-  max-width: 900px;  /* For Desktop PC (see @media for Tablets/Phones) */
+  max-width: 720px;  /* For Desktop PC (see @media for Tablets/Phones) */
   padding-left: 2%;
   padding-right: 3%;
   margin: 0 auto; 
   /*background: #F5F5F0;*/
-  background: #FBF0FC;
+  /*background: #FBF0FC;*/
+  background: MistyRose;
 } 
 
 a {
@@ -19,16 +20,21 @@ a {
   font-weight: bold;
 }
 
+a:link { text-decoration: none; }
+a:visited { text-decoration: none; }
+a:hover { text-decoration: none; }
+a:active { text-decoration: none; }
+
 img {
   display: block;
   border: none; 
-  max-width:300;
+  max-width:720;
   width: auto;
   height: auto;
 }
 
 .container {
-  width: 900px; /*any size*/
+  width: 720px; /*any size*/
 }
 
 .object-fit-cover {
