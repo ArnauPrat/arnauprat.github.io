@@ -5,7 +5,7 @@
 }
 
 html {
-  font-family: "Lucida Console", "Courier New", monospace;
+  font-family: "Courier New", monospace;
   max-width: 900px;  /* For Desktop PC (see @media for Tablets/Phones) */
   padding-left: 2%;
   padding-right: 3%;
@@ -15,7 +15,7 @@ html {
 } 
 
 a {
-  color: black;
+  color:Indigo;
   font-weight: bold;
 }
 
@@ -58,6 +58,7 @@ pre {
 }
 
 div.heading {
+  color:Indigo;
   font-weight: bold;      
   text-transform: uppercase;
   margin-top: 4ch;
