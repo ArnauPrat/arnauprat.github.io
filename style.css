@@ -1,6 +1,6 @@
 
 * {
-  font-size: 16px;
+  font-size: 18px;
   /*color: #ffffff;*/
 }
 
@@ -13,6 +13,7 @@ html {
   /*background: #F5F5F0;*/
   /*background: #FBF0FC;*/
   background: MistyRose;
+  text-align: justify;
 } 
 
 a {
@@ -68,6 +69,7 @@ div.heading {
   font-weight: bold;      
   text-transform: uppercase;
   margin-top: 4ch;
+  margin-bottom: 1ch;
 }
 
 /** {
